@@ -1,4 +1,4 @@
-# House Price Prediction — Mumbai
+# House Price Prediction - Mumbai
 
 ## Problem
 Predict residential property prices across Mumbai and deploy a live interactive prediction app.
